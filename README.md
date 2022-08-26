@@ -1,7 +1,7 @@
 # tricks on /api/v1/user/id
 /api/v1/user/id.json\
 /api/v1/user/id?\
-/api/v1/us%65r/id/
+/api/v1/us%65r/id/\
 /api/v1/user/id/\
 /api/v2/user/id\
 /api/v1/user/id&accountdetail\
